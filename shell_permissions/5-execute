@@ -1,2 +1,2 @@
 #!/bin/bash
-echo " Execute permission added to the owner of 'hello' "
+chmod 100 hello
