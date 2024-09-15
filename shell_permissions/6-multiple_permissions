@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "Permissions set: owner and group have execute permissions, others have read permissions"
+chmod 114 hello
